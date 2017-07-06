@@ -59,7 +59,7 @@ A terceira linha irá conter o número de candidatos a senador, presidente e nú
 linhas seguintes irão conter um dos códigos das ações com seus possíveis argumentos, de acordo
 com a tabela a seguir:
 
-
+![alt text](prints/entrada.png "Entrada")
 
 Assim, o programa deve ficar lendo continuamente e processando as ações, até que leia a entrada
 '3', correspondendo ao comando encerra.
